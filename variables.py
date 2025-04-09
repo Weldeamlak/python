@@ -28,3 +28,12 @@ famous_quote = 'Albert Einstein once said, "A person who never made a mistake ne
 print(famous_quote)
 
 # class end 🏆🏆 for today april 7 / 2025;
+
+
+print(3+5)
+print(10-2)
+print(2*4)
+print(16/2) #gives a float number not integer
+fav_num = 7
+print(fav_num) 
+import this
