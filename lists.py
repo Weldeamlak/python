@@ -35,3 +35,5 @@ for guest in guest_list:
 
 print(f"{guest.title()}, you are invited to the party.")
  
+
+
